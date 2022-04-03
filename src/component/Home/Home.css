@@ -1,0 +1,23 @@
+.image-container img {
+    height: 500px;
+    margin-top: 10px;
+}
+
+.home-container {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    margin-top: 20px;
+}
+
+.home-details {
+    margin: auto 0px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    align-items: flex-start;
+}
+
+.headline {
+    font-size: 3em;
+    margin: 0;
+}
