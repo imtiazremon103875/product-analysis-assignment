@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Messi",
+        "price": "180",
+        "img": "./image/player-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Mbappe",
+        "price": "110",
+        "img": "./image/player-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Carbahal",
+        "price": "30",
+        "img": "./image/player-3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ronaldo",
+        "price": "100",
+        "img": "./image/player-4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Sahla",
+        "price": "120",
+        "img": "./image/player-5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "lewadoski",
+        "price": "100",
+        "img": "./image/player-6.jpg"
+    }
+]
