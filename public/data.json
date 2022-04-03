@@ -1,38 +1,38 @@
 [
     {
         "id": 1,
-        "name": "Messi",
-        "price": "180",
-        "img": "./image/player-1.jpg"
+        "name": "Imtiaz",
+        "text": "Very Very Good Movie,happy to watch",
+        "rating": 4.5
     },
     {
         "id": 2,
-        "name": "Mbappe",
-        "price": "110",
-        "img": "./image/player-2.jpg"
+        "name": "sani",
+        "text": "One of the better Bollywood movies I saw",
+        "rating": 4.7
     },
     {
         "id": 3,
-        "name": "Carbahal",
-        "price": "30",
-        "img": "./image/player-3.jpg"
+        "name": "saad",
+        "text": " This inspires me to watch more Bollywood movies",
+        "rating": 4.2
     },
     {
         "id": 4,
-        "name": "Ronaldo",
-        "price": "100",
-        "img": "./image/player-4.jpg"
+        "name": "faisal",
+        "text": "Touching story of friendship, drama and adventure from Bollywood!",
+        "rating": 4.9
     },
     {
         "id": 5,
-        "name": "Sahla",
-        "price": "120",
-        "img": "./image/player-5.jpg"
+        "name": "fahim",
+        "text": "Scarcely has a comedy provided its audience with so much insight, intelligence, and human affection ",
+        "rating": 5.00
     },
     {
         "id": 6,
-        "name": "lewadoski",
-        "price": "100",
-        "img": "./image/player-6.jpg"
+        "name": "asif",
+        "text": "If this had come from Hollywood and not Bollywood it might have cleaned up at the Oscars",
+        "rating": 4.2
     }
 ]
