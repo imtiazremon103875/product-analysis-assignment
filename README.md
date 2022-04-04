@@ -1,6 +1,6 @@
 # Movie lover
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my live website link [https://adorable-fudge-7a97bb.netlify.app/](https://adorable-fudge-7a97bb.netlify.app/).
 
 # work done in website
 
