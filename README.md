@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# Movie lover
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# work done in website
+
+* firstly i work with nav bar which called header section,i complete route for this header section
+
+* 2nd i work for home section,which has a movie name, and movie details
+
+* 3rd i work 3 review system ,for this movie,which is show in review contain. if i click see more button then we see all reviews which is give by user
+
+* 4th i work with dashboard,which has some rechart,we shown some react rechart which link with investment,revenue 
+
+* then  i edit readme file.
+
+
 
 ## Available Scripts
 
