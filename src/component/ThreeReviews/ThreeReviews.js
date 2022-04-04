@@ -8,7 +8,7 @@ const ThreeReviews = () => {
     const [reviews, setReviews] = useReviews();
 
     const threeReviews = reviews.filter(review => review.id < 4)
-    console.log(threeReviews)
+
     return (
         <div>
             <h1>Audience Review(3)</h1>
